@@ -1,5 +1,8 @@
 import javax.swing.*;
 /*
+Program som bestämmer om två personer fyller år på samma dag
+Alexander Blom
+2017/10/16
 */
 public class Ovning4_6{
 	public static void main(String[] args) {
